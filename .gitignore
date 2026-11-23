@@ -1,0 +1,15 @@
+# R / RStudio
+.Rproj.user
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# OS & Archives
+.DS_Store
+__MACOSX/
+
+# IDEs & Editors
+.ipynb_checkpoints
+.vscode/
+.idea/
